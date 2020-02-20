@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+img{
+    width : 180px;
+    height: 160px;
+    }
+ td{
+   padding: 25px;
+   padding-bottom: 3px;
+   }
+ 
+ table{
+      border : 3px solid black
+      }
